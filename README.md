@@ -1,4 +1,4 @@
-# Personal-Expenses-App-Flutter-Dart-
+# Personal Expenses App (Flutter/Dart)
 
 A personal expenses app for keeping track of how much money you've spent for the week. Key features emphasized in this project:
 - Formatting of dates, time, and money
